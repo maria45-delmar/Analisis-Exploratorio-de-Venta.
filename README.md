@@ -173,7 +173,7 @@ Segmentación de la oferta por valor:
 
 
 
-* **Interpretación**: El pico máximo de transacciones ocurre de 8:00 AM a 10:30 AM. Sin embargo, a las 11:00 AM experimentamos un colapso del 32% en el tráfico.
+* **Interpretación**: El pico máximo de transacciones ocurre de 8:00 AM a 10:30 AM. Sin embargo, a las 11:00 AM experimentamos un colapso del 43% en el tráfico.
 
 * **Análisis por Tienda (Impacto y Oportunidades)**:
 
