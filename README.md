@@ -166,7 +166,8 @@ Segmentación de la oferta por valor:
 ¿En qué hora exacta se concentra el volumen y qué causa la caída del mediodía?
 
 
-![cantidad de ventas por hora](https://github.com/user-attachments/assets/5f9c023c-991f-4740-ba5a-d19db3235024)
+<img width="1832" height="508" alt="image" src="https://github.com/user-attachments/assets/61c2ced3-47f6-461c-9ab6-7cd15100fec2" />
+
 
 
 
